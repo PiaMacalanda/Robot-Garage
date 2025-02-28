@@ -1,23 +1,19 @@
-# 🚀 Robot Garage - OOP Multiple Inheritance Demo  
+# 🤖 Robot Garage  
 
-This project is a **Python GUI application** showcasing **Object-Oriented Programming (OOP) with multiple inheritance** using Tkinter. Users can **customize and build a robot** (Humanoid, Quadruped, or Drone) with different power sources and specialties.  
+A Python Tkinter GUI application that showcases **multiple inheritance** in Object-Oriented Programming by allowing users to customize robots.
 
----
+## 🚀 Features  
+- Select different robot types (Humanoid, Quadruped, Drone)  
+- Choose power sources and functions  
+- View the robot hierarchy in an **inverted inheritance pyramid**  
+- Dynamic UI with images  
 
-## 🛠 Features  
-✅ **Multiple Inheritance** (Machine → PoweredDevice → SpecializedFunction → CustomizedRobot)  
-✅ **UI** with Tkinter (Dropdowns, Buttons, Images)  
-✅ **Customizable Robots** (Humanoid, Quadruped, Drone)  
-✅ **Image Display** Based on Selection  
+## 🔧 Installation  
 
----
-
-## 📥 Installation  
-
-### 1️⃣ Clone the Repository  
+**1. Clone the repository:**  
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/PiaMacalanda/Robot-Garage.git
+cd Robot-Garage
 ```
 
 ### 2️⃣ Install Dependencies
