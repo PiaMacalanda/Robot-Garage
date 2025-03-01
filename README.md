@@ -6,7 +6,6 @@ A Python Tkinter GUI application that showcases **multiple inheritance** in Obje
 - Select different robot types (Humanoid, Quadruped, Drone)  
 - Choose power sources and functions  
 - View the robot hierarchy in an **inverted inheritance pyramid**  
-- Dynamic UI with images  
 
 ## 🔧 Installation  
 
